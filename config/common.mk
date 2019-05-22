@@ -79,7 +79,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     GoogleClock \
     Wallpapers \
-    ResurrectionStats
+    ResurrectionStats \
+    AsusCamera
 
 # Cutout control overlays
 PRODUCT_PACKAGES += \
